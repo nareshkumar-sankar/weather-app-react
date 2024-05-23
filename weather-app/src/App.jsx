@@ -1,15 +1,10 @@
-
-
 import rain from './assets/rain.png';
 import search from './assets/search.png';
 import cold from './assets/cold.png';
 import littlesunny from './assets/littelsunny.png';
 import rainthunder from './assets/rain-thunder.png';
-import rainbow from './assets/rainbow.png';
 import sunny from './assets/sunny.png';
 import sunnyrain from './assets/sunnyrain.png';
-import thunder from './assets/thunder.png';
-import wind1 from './assets/wind1.png';
 import humidity from './assets/humidity.png';
 import wind from './assets/wind.png';
 
